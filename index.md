@@ -1,3 +1,5 @@
-## Genomics Aotearoa
+This is the GitHub pages site for Genomics Aotearoa. The repositories here relate to in-progress software development and training projects that are currently underway.
 
-Genomics Aotearoa is an agile, leading-edge and collaborative platform, established to ensure that New Zealand is internationally participating and leading in the rapidly developing fields of genomics (the study of the genome, the complete set of genetic material present in a cell or organism) and bioinformatics (the development of methods and software tools for understanding the biological data derived from genomics).
+If you are interested in learning more about Genomics Aotearoa, please visit our official website at:
+
+https://www.genomics-aotearoa.org.nz/
