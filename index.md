@@ -1,4 +1,4 @@
-This is the GitHub pages site for Genomics Aotearoa. The repositories here relate to in-progress software development and training projects that are currently underway.
+This is the GitHub pages site for Genomics Aotearoa, a collaborative research platform for genomics and bioinformatics. The repositories here relate to our in-progress software development and training projects.
 
 If you are interested in learning more about Genomics Aotearoa, please visit our official website at:
 
