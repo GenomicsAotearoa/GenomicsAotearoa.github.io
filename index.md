@@ -11,7 +11,6 @@ If you are interested in learning more about Genomics Aotearoa, please visit our
  - [Cell-free genomics](https://www.genomics-aotearoa.org.nz/projects/cell-free-genomics)
 
 These projects relate to the development and deployment of data analysis pipelines for processing cancer genomics data. Available repositories:
- - [ga_bioinformatics](https://github.com/GenomicsAotearoa/ga_bioinformatics):
  - [bioinformatics-containers](https://github.com/GenomicsAotearoa/bioinformatics-containers):
  - [dbNSFP_build](https://github.com/GenomicsAotearoa/dbNSFP_build):
  - [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline):
