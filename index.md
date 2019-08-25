@@ -11,9 +11,9 @@ If you are interested in learning more about Genomics Aotearoa, please visit our
  - [Cell-free genomics](https://www.genomics-aotearoa.org.nz/projects/cell-free-genomics)
 
 These projects relate to the development and deployment of data analysis pipelines for processing cancer genomics data. Available repositories:
- - [bioinformatics-containers](https://github.com/GenomicsAotearoa/bioinformatics-containers):
- - [dbNSFP_build](https://github.com/GenomicsAotearoa/dbNSFP_build):
- - [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline):
+ - [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline): [bpipe](http://docs.bpipe.org/)-based pipeline for processing cancer genomics data in fastq format through to annotated variants in a simple report.
+ - [bioinformatics-containers](https://github.com/GenomicsAotearoa/bioinformatics-containers): [Docker](https://www.docker.com) containers used by [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline).
+ - [dbNSFP_build](https://github.com/GenomicsAotearoa/dbNSFP_build): [Docker](https://www.docker.com) container for script to download dbNSFP 'database' and wrangle it into a format suitable for pipeline annotation process.
 
 ### Bioinformatics training
  - [Bioinformatics capability](https://www.genomics-aotearoa.org.nz/projects/bioinformatics-capability)
