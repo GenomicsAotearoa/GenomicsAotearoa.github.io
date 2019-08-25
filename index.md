@@ -2,4 +2,4 @@ This is the GitHub pages site for Genomics Aotearoa, a collaborative research pl
 
 If you are interested in learning more about Genomics Aotearoa, please visit our official website at:
 
-https://www.genomics-aotearoa.org.nz/
+[https://www.genomics-aotearoa.org.nz/](https://www.genomics-aotearoa.org.nz/)
