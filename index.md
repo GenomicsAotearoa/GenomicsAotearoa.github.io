@@ -14,7 +14,7 @@ These projects relate to the development and deployment of data analysis pipelin
  - [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline): [bpipe](http://docs.bpipe.org/)-based pipeline for processing cancer genomics data in fastq format through to annotated variants in a simple report.
  - [bioinformatics-containers](https://github.com/GenomicsAotearoa/bioinformatics-containers): [Docker](https://www.docker.com) containers used by [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline).
  - [dbNSFP_build](https://github.com/GenomicsAotearoa/dbNSFP_build): [Docker](https://www.docker.com) container for script to download dbNSFP 'database' and wrangle it into a format suitable for pipeline annotation process.
- - [running_smcounter](https://github.com/GenomicsAotearoa/running_smcounter): Notes on getting the smcounter pipeline/workflow up and running with singularity. Created as a regular repo, since organistations can't have gists.
+ - [running_smcounter](https://github.com/GenomicsAotearoa/running_smcounter): Notes on getting the [qiaseq-dna / smcounter](https://github.com/qiaseq/qiaseq-dna) pipeline/workflow up and running with singularity. Created as a regular repo, since organistations can't have gists.
 
 ### Bioinformatics training
  - [Bioinformatics capability](https://www.genomics-aotearoa.org.nz/projects/bioinformatics-capability)
