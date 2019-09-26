@@ -16,7 +16,7 @@ These projects relate to the development and deployment of data analysis pipelin
  - [dbNSFP_build](https://github.com/GenomicsAotearoa/dbNSFP_build): [Docker](https://www.docker.com) container for script to download dbNSFP 'database' and wrangle it into a format suitable for pipeline annotation process.
  - [running_smcounter](https://github.com/GenomicsAotearoa/running_smcounter): Notes on getting the [qiaseq-dna / smcounter](https://github.com/qiaseq/qiaseq-dna) pipeline/workflow up and running with singularity. Created as a regular repo, since organistations can't have gists.
  
- ### Environment / Primary Production
+### Environment / Primary Production
  - [High Quality Genomes](https://www.genomics-aotearoa.org.nz/projects/high-quality-genomes)
  
 Available repositories:
