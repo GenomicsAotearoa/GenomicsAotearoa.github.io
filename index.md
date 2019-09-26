@@ -6,6 +6,11 @@ If you are interested in learning more about Genomics Aotearoa, please visit our
 
 ## Projects with public repositories:
 
+### General
+ 
+Available repositories:
+- [Methods and Musings](https://github.com/GenomicsAotearoa/methods-and-musings): contributions from Genomics Aotearoa team members.
+
 ### Cancer genomics
  - [Genomic translational oncology](https://www.genomics-aotearoa.org.nz/projects/genomic-translational-oncology)
  - [Cell-free genomics](https://www.genomics-aotearoa.org.nz/projects/cell-free-genomics)
@@ -15,12 +20,6 @@ These projects relate to the development and deployment of data analysis pipelin
  - [bioinformatics-containers](https://github.com/GenomicsAotearoa/bioinformatics-containers): [Docker](https://www.docker.com) containers used by [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline).
  - [dbNSFP_build](https://github.com/GenomicsAotearoa/dbNSFP_build): [Docker](https://www.docker.com) container for script to download dbNSFP 'database' and wrangle it into a format suitable for pipeline annotation process.
  - [running_smcounter](https://github.com/GenomicsAotearoa/running_smcounter): Notes on getting the [qiaseq-dna / smcounter](https://github.com/qiaseq/qiaseq-dna) pipeline/workflow up and running with singularity. Created as a regular repo, since organistations can't have gists.
-
-### Environment / Primary Production
- - [High Quality Genomes](https://www.genomics-aotearoa.org.nz/projects/high-quality-genomes)
- 
-Available repositories:
-- [nanopore-basecalling](https://github.com/GenomicsAotearoa/nanopore-basecalling): an "information article" from Dr Ann McCartney based on her experiences working with Oxford Nanopore sequencing data.
 
 ### Bioinformatics training
  - [Bioinformatics capability](https://www.genomics-aotearoa.org.nz/projects/bioinformatics-capability)
