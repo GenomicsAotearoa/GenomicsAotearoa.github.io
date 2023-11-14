@@ -2,7 +2,7 @@ This is the GitHub pages site for Genomics Aotearoa, a collaborative research pl
 
 If you are interested in learning more about Genomics Aotearoa, please visit our official website at:
 
-(https://www.genomics-aotearoa.org.nz/](https://www.genomics-aotearoa.org.nz/)
+https://www.genomics-aotearoa.org.nz/](https://www.genomics-aotearoa.org.nz/
 
 We maintain a mix of public and private GitHub repositories, with private repositories only accessible to members of the GA oragnisation. If you are part of a GA project team, and need to be added to the GA organisation, please contact [Mik Black](https://github.com/mikblack).  
 
