@@ -10,7 +10,7 @@ If you are a GA team member, and would like some guidance on contribiting to our
 
 [GA-GITHUB-README-FIRST](https://github.com/GenomicsAotearoa/GA-GITHUB-README-FIRST)
 
-Note that the above is a private repository, so is only accessible to GA organisation members.
+Note that the above is a private repository, so is only accessible to GA organisation members who are logged into their GitHub accounts.
 
 ## Genomics Aotearoa repositories:
 
