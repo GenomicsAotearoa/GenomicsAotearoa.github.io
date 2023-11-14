@@ -14,7 +14,7 @@ Note that the above is a private repository, so is only accessible to GA organis
 
 ## Genomics Aotearoa repositories:
 
-All repositories: https://github.com/GenomicsAotearoa/
+All repositories: [https://github.com/GenomicsAotearoa/](https://github.com/GenomicsAotearoa/)
 
 Repositories by topic (each link below generates a list of GA repositories for that particular topic tag):
 
