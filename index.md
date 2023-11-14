@@ -12,9 +12,13 @@ If you are a GA team member, and would like some guidance on contribiting to our
 
 Note that the above is a private repository, so is only accessible to GA organisation members.
 
-## Genomics Aotearoa repositories (by topic):
+## Genomics Aotearoa repositories:
 
-### Research projects (links generate list of GA repositories by topic)
+All repositories: https://github.com/GenomicsAotearoa
+
+Repositories by topic (each link below generates a list of GA repositories for that particular topic tag):
+
+### Research projects
 
  - [environmental-metagenomics](https://github.com/search?q=topic%3Aenvironmental-metagenomics+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
  - [high-quality-genomes](https://github.com/search?q=topic%3Ahigh-quality-genomes+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
