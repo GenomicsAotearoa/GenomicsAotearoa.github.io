@@ -14,7 +14,7 @@ Note that the above is a private repository, so is only accessible to GA organis
 
 ## Genomics Aotearoa repositories (by topic):
 
-### Research projects (links list GA repositories by topic)
+### Research projects (links generate list of GA repositories by topic)
 
  - [environmental-metagenomics](https://github.com/search?q=topic%3Aenvironmental-metagenomics+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
  - [high-quality-genomes](https://github.com/search?q=topic%3Ahigh-quality-genomes+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
