@@ -4,27 +4,28 @@ If you are interested in learning more about Genomics Aotearoa, please visit our
 
 [https://www.genomics-aotearoa.org.nz/](https://www.genomics-aotearoa.org.nz/)
 
-## Projects with public repositories:
+We maintain a mix of public and private GitHub repositories, with private repositories only accessible to members of the GA oragnisation. If you are part of a GA project team, and need to be added to the GA organisation, please contact [Mik Black](https://github.com/mikblack).  
 
-### General
- 
-Available repositories:
-- [Methods and Musings](https://github.com/GenomicsAotearoa/methods-and-musings): contributions from Genomics Aotearoa team members.
+If you are a GA team member, and would like some guidance on contribiting to our GitHub repositories, please see: 
 
-### Cancer genomics
- - [Genomic translational oncology](https://www.genomics-aotearoa.org.nz/projects/genomic-translational-oncology)
- - [Cell-free genomics](https://www.genomics-aotearoa.org.nz/projects/cell-free-genomics)
+[GA-GITHUB-README-FIRST](https://github.com/GenomicsAotearoa/GA-GITHUB-README-FIRST)
 
-These projects relate to the development and deployment of data analysis pipelines for processing cancer genomics data. Available repositories:
- - [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline): [bpipe](http://docs.bpipe.org/)-based pipeline for processing cancer genomics data in fastq format through to annotated variants in a simple report.
- - [bioinformatics-containers](https://github.com/GenomicsAotearoa/bioinformatics-containers): [Docker](https://www.docker.com) containers used by [cancer-seq-pipeline](https://github.com/GenomicsAotearoa/cancer-seq-pipeline).
- - [dbNSFP_build](https://github.com/GenomicsAotearoa/dbNSFP_build): [Docker](https://www.docker.com) container for script to download dbNSFP 'database' and wrangle it into a format suitable for pipeline annotation process.
- - [running_smcounter](https://github.com/GenomicsAotearoa/running_smcounter): Notes on getting the [qiaseq-dna / smcounter](https://github.com/qiaseq/qiaseq-dna) pipeline/workflow up and running with singularity. Created as a regular repo, since organistations can't have gists.
+Note that the above is a private repository, so is only accessible to GA organisation members.
 
-### Bioinformatics training
- - [Bioinformatics capability](https://www.genomics-aotearoa.org.nz/projects/bioinformatics-capability)
+## Genomics Aotearoa repositories (by topic):
 
-This project relates to the delivery of hands-on bioinformatics training workshops across New Zealand. Available repositories:
-- [GenomicsAotearoa.github.io](https://github.com/GenomicsAotearoa/GenomicsAotearoa.github.io) - the repository for this website.
-- [2019-09-19-ESR](https://github.com/GenomicsAotearoa/2019-09-19-ESR) - Data Carpentry Genomics repository for upcoming training event at ESR in Porirua.
-- [cloudsforresearch](https://github.com/GenomicsAotearoa/cloudsforresearch) - A guide to getting started in the cloud.
+### Research projects (links list GA repositories by topic)
+
+ - [environmental-metagenomics](https://github.com/search?q=topic%3Aenvironmental-metagenomics+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
+ - [high-quality-genomes](https://github.com/search?q=topic%3Ahigh-quality-genomes+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
+ - [invasomics](https://github.com/search?q=topic%3Ainvasomics+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
+ - [genome-graphs](https://github.com/search?q=topic%3Agenome-graphs+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
+ - [clinical-genomics](https://github.com/search?q=topic%3Aclinical-genomics+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
+
+### Training workshops
+
+ - [workshop-material](https://github.com/search?q=topic%3Aworkshop-material+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
+
+### General Resources
+
+ - [resources](https://github.com/search?q=topic%3Aresources+org%3AGenomicsAotearoa+fork%3Atrue&type=repositories)
