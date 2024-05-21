@@ -1,6 +1,6 @@
 layout: page
 title: "GA tools"
-permalink: /
+permalink: /ga-tools
 
 ## Tools, workflows and pipelines
 
