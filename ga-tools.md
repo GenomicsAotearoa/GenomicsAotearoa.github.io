@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 layout: page
 title: "GA tools"
 permalink: /ga-tools
