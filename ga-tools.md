@@ -1,6 +1,6 @@
 ## Tools, workflows and pipelines
 
-The following are links to Genomics Aotearoa GitHub repositories that inmplement specific 
+The following are links to Genomics Aotearoa GitHub repositories that implement specific 
 analysis workflows.
 
 - [environmental_metagenomics](https://github.com/GenomicsAotearoa/environmental_metagenomics) - A quick workflow to get researchers started with the bioinformatic pipeline used in the Environmental Metagenomics program.
