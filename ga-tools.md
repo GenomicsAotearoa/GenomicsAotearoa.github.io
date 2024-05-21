@@ -1,6 +1,8 @@
+---
 layout: page
 title: "GA tools"
 permalink: /ga-tools/
+---
 
 # Tools, workflows and pipelines
 
