@@ -1,4 +1,8 @@
-# Tools, workflows and pipelines
+layout: page
+title: "GA tools"
+permalink: /ga-tools/
+
+## Tools, workflows and pipelines
 
 The following are links to Genomics Aotearoa GitHub repositories that inmplement specific 
 analysis workflows.
