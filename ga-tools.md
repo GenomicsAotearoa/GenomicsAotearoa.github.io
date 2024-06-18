@@ -20,3 +20,10 @@ analysis workflows.
 - [vcf_annotation_pipeline](https://github.com/GenomicsAotearoa/vcf_annotation_pipeline) - A Snakemake workflow to filter, annotate and prepare variant call format (VCF) data for scout using GATK4, SnpSift, VEP and genmod. Designed to be used after human_genomics_pipeline.
   
 - [human_genomics_pipeline](https://github.com/GenomicsAotearoa/human_genomics_pipeline) - A Snakemake workflow to process single samples or cohorts of paired-end sequencing data (WGS or WES) using trim galore/bwa/GATK4/parabricks.
+
+- He Kākano - The Aotearoa Variome Resource
+  - [Variant Calling Pipeline](https://github.com/wassermanlab/Variant_catalogue_pipeline)
+  - [Co-analysis of pharmacogenetic genotypes, prescription and dispending records](https://github.com/BenjHalliday/rakeiora-public-pharmacogenomic)
+
+- Rakeiroa: genomic medicine pathfinder project
+  - [Germline Workflow and Somatic Cancer Workflows](https://github.com/peter-sw-tsai/nesi-example-workflow)
