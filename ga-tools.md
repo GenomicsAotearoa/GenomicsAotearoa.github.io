@@ -25,5 +25,5 @@ analysis workflows.
   - [Variant Calling Pipeline](https://github.com/wassermanlab/Variant_catalogue_pipeline)
   - [Co-analysis of pharmacogenetic genotypes, prescription and dispending records](https://github.com/BenjHalliday/rakeiora-public-pharmacogenomic)
 
-- Rakeiroa: genomic medicine pathfinder project
+- Rakeiora: genomic medicine pathfinder project
   - [Germline Workflow and Somatic Cancer Workflows](https://github.com/peter-sw-tsai/nesi-example-workflow)
