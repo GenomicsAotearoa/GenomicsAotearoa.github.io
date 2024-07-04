@@ -22,6 +22,7 @@ analysis workflows.
 - [human_genomics_pipeline](https://github.com/GenomicsAotearoa/human_genomics_pipeline) - A Snakemake workflow to process single samples or cohorts of paired-end sequencing data (WGS or WES) using trim galore/bwa/GATK4/parabricks.
 
 - He Kākano - The Aotearoa Variome Resource
+  - [Genome Assembly Pipeline](https://github.com/GenomicsAotearoa/VariomeGenomeAssembly)
   - [Variant Calling Pipeline](https://github.com/wassermanlab/Variant_catalogue_pipeline)
   - [Co-analysis of pharmacogenetic genotypes, prescription and dispending records](https://github.com/BenjHalliday/rakeiora-public-pharmacogenomic)
 
