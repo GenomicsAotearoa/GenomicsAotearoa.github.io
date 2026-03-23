@@ -1,4 +1,6 @@
-**This page is no longer being used as of March 2026. Go directly to [https://github.com/GenomicsAotearoa/](https://github.com/GenomicsAotearoa/) - the relevant information is displayed on the main page.**
+<meta http-equiv="refresh" content="10; url=https://github.com/GenomicsAotearoa">
+
+**This page is no longer being used as of March 2026. Go directly to [https://github.com/GenomicsAotearoa/](https://github.com/GenomicsAotearoa/) - the relevant information is displayed on the main page. You will be redirected in 10 seconds.**
 
 This is the GitHub pages site for Genomics Aotearoa, a collaborative research platform for genomics and bioinformatics. The repositories here relate to our in-progress software development and training projects.
 
